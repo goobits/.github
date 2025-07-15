@@ -1,30 +1,35 @@
 # ⚡ Goobits - Intelligent Development Tools
 
-  **Building the future of intelligent development workflows.**
+  **Building reliable tools for AI-powered development workflows.**
 
-  At Goobits, we create production-ready tools that bridge the gap between human creativity and AI capabilities. Our portfolio
-  includes a comprehensive ecosystem of open-source projects designed for developers who want to harness AI effectively while
-  maintaining control, reliability, and transparency.
+  At Goobits, we create practical tools that help developers work effectively with AI while maintaining transparency and
+  control. Our portfolio spans workflow orchestration, infrastructure automation, and intelligent interfaces - from
+  production-ready utilities to cutting-edge experimental projects.
 
   ## 🤖 AI Orchestration & Monitoring
-  - **AgentFlow** - Multi-agent workflow engine with DSL-based conversation orchestration
-  - **ClaudeFlow** - 100% reliable Claude CLI monitoring through bulletproof JSONL architecture
-  - **FractalCode** - Strategic AI-powered development with human oversight and autonomous execution
+  - **AgentFlow** - Production-ready multi-agent workflow engine with DSL and state management
+  - **ClaudeFlow** - JSONL-based Claude CLI monitoring with session management (beta)
+  - **FractalCode** - Strategic AI development assistant with human oversight (experimental)
 
   ## ⚡ Development Infrastructure
-  - **VM** - Beautiful development environments with one command (Docker/Vagrant)
-  - **FractalTerm** - Multi-computer synchronized terminal workspaces with real-time collaboration
+  - **VM** - One-command development environments supporting Docker and Vagrant
+  - **FractalTerm** - Multi-computer synchronized terminal workspaces (in development)
   - **Multifork** - Isolated workspace management with seamless directory switching
 
   ## 🔧 Automation & Integration
-  - **ShellFlow** - Modern async SSH automation with real-time pattern monitoring
-  - **TTT** - Unified CLI interface for multiple AI providers with function calling
-  - **STT** - Advanced speech-to-text engine with intelligent text formatting
+  - **ShellFlow** - Production-ready async SSH automation with pattern monitoring
+  - **TTT** - Unified CLI for multiple AI providers with function calling (alpha)
+
+  ## 🎙️ Speech & Audio Processing
+  - **STT** - Advanced speech-to-text engine with multiple operation modes (beta)
+  - **TTS** - Multi-provider text-to-speech CLI with voice cloning capabilities
 
   ## 📊 Analytics & Insights
   - **ClaudeUsage** - Comprehensive AI usage analytics across multiple environments
 
   ---
 
-  Our tools prioritize **reliability**, **transparency**, and **developer experience** - because the best AI tools are the ones
-  you can trust in production.
+  **Our Approach**: We build tools that range from battle-tested production utilities to experimental AI workflows. Each project
+   clearly indicates its maturity level - because honest software development means being upfront about what's ready for
+  production and what's still evolving.
+
